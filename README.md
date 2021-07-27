@@ -1,0 +1,1 @@
+The link to the image on docker hub is https://hub.docker.com/repository/docker/arthurlnf/codeeducation
